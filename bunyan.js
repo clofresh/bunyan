@@ -58,7 +58,7 @@ var logger = {
     }
     
     return this;
-  },
+  }
 }.configure({
   verbosity: 'info',
   target: 'console',
